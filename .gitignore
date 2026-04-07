@@ -15,7 +15,6 @@ phpstan_errors*.txt
 Thumbs.db
 
 # Environment
-.env
 .env.testing
 .env.backup
 .env.example
@@ -37,10 +36,10 @@ phpunit.xml
 
 # IDE
 /.idea/
-/.vscode/
 *.sublime-project
 *.sublime-workspace
 
 # Private
 package_details.md
 SOLUTIONS.md
+config.bat
